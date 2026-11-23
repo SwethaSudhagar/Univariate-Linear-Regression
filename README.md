@@ -43,7 +43,8 @@ To implement univariate Linear Regression to fit a straight line using least squ
 
 ```
 ## Output
-<img width="618" height="711" alt="image" src="https://github.com/user-attachments/assets/6749026e-eea2-407b-97b3-9572d81c18d0" />
+<img width="573" height="738" alt="image" src="https://github.com/user-attachments/assets/923c1b4c-0ba3-4c39-8887-27aece7cd63e" />
+
 
 
 ## Result
